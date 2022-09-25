@@ -48,6 +48,6 @@ npm start
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-**Free Software, Hell Yeah!**
+
 
 
